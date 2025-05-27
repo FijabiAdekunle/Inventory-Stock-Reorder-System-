@@ -1,5 +1,7 @@
 # Inventory Stock Reorder System (Excel VBA Dashboard)
 
+[![Excel-Inventory-Reorder-System-Demo.png](https://i.postimg.cc/Bbwk1Kcg/Excel-Inventory-Reorder-System-Demo.png)](https://postimg.cc/jnPZpC1w)
+
 ## 🔍 Overview
 This project automates inventory stock monitoring across multiple years using Excel and VBA. It supports reorder analysis, conditional formatting, PDF reporting, and Outlook-based email automation.
 
