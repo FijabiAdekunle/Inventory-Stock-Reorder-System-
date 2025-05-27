@@ -37,5 +37,5 @@ This project automates inventory stock monitoring across multiple years using Ex
 ## 👨‍💻 Author
 Fijabi J. Adekunle  
 **Motto:** Navigating Data | Unveiling Insights | Driving Impacts  
-[LinkedIn Profile](https://www.linkedin.com/in/fijabi-j-adekunle/) | [Portfolio Website](https://sites.google.com/view/fijabijadekunle/home)
+[LinkedIn Profile](https://www.linkedin.com/in/fijabi-j-adekunle/) | [Portfolio Website](https://sites.google.com/view/fijabijadekunle/inventory-stock-reorder-system)
 
